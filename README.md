@@ -17,7 +17,7 @@ This repository contains two Streamlit applications that leverage Google's Gemin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Likithsatya192/Gemini-LLM-Projects
+   git clone https://github.com/Likithsatya192/Gemini-LLM-Projects.git
    cd Gemini-LLM-Projects
    ```
 
